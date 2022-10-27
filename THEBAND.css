@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* -----------------------Nvbar---------------------*/
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+    background-color: black;
+    color: white;
+}
+.navbar_left{
+display: flex;
+}
+.navbar_P{
+    padding: 0px 20px;
+}
+.Poisk{
+    color: white;
+    padding: 0px 20px;
+}
+/* --------------------Chikago------------------ */
+.chikago img{
+   width: 100%;
+}
+/* ------------------THE BAND------------------ */
+.Width_contenet{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Width_contener_main{
+    width: 57%;
+}
+.Main_THE_BAND{
+    padding: 64px 16px;
+}
+.text_center{
+    text-align: center;
+}
+.text_justify{
+    text-align:center;
+    text-align:justify;
+}
+.THE_BAND_img{
+    padding: 32px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.P_Name{
+    margin: 15px 0px;
+    font-size: 15px;
+}
+.main_img{
+    width: 255px;
+    height: 222px;
+}
+.border_rdius{
+    border-radius: 4px;
+}
+/* ---------------------TOUR DATES------------------- */
+.Contener_TOUR_DATES{
+    background-color: black;
+}
+.h2_TOUR{
+ color: white;
+ text-align: center;
+}
+.Main_TOUR_DATES{
+    padding: 64px 0px;
+}
+.p_Remember{
+    color: white;
+    text-align: center;
+}
+.spn3{
+    background-color: #000;
+        color: white;
+        padding: 1px 8px;
+        border-radius: 50%;
+        float: right;
+}
+.ul_Month li{
+    background-color: white;
+    color: #757575;
+    border-bottom: 1px solid rgb(184, 178, 178);
+    padding: 8px 16px;
+    font-size: 18px;
+    list-style-type:none ;
+}
+.span_Sold{
+    color: white;
+    padding: 0px 8px;
+    background-color: #f44336;
+    margin-left: 16px;
+}
+.New_York_Paris_San_Francisco{
+    padding: 32px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom{
+    background-color: white;
+    padding: 0px 16px;
+    padding-top: 10px;
+
+}
+.top{
+    height: 182px;
+}
+.New_York{
+    width: 32%;
+
+}
+.P_Fri{
+    margin: 15px 0px;
+    font-size: 15px;
+}
+.P_raesent{
+    font-size: 15px;
+    margin: 15px 0px;
+    line-height: 1.5;
+}
+.button_Buy{
+    padding: 8px 16px;
+    background-color:  black;
+    color: white;
+    margin-bottom: 16px;
+    border: none;
+}
+.button_Buy:hover{
+    background-color: #757575;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
